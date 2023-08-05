@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:http://logand.com/git/cl-olefs.git   |
-| commit  | {"messa  |
+| commit  | 251110a  |
 | systems | cl-olefs |
 |---------+-------------------------------------------|
 
